@@ -30,7 +30,7 @@ To demonstrate how a basic keylogger works for security awareness and research.
 2. Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install pynput
 ```
 
 3. Run the keylogger:
