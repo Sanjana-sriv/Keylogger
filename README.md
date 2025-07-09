@@ -24,8 +24,8 @@ To demonstrate how a basic keylogger works for security awareness and research.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/keylogger-educational.git
-   cd keylogger
+   git clone [https://github.com/yourusername/keylogger-educational.git](https://github.com/Sanjana-sriv/Keylogger.git)
+   cd Keylogger
 
 2. Install dependencies:
 
